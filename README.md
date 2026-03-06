@@ -1,4 +1,5 @@
 # Ethan Yip
 
 Swift, Flutter, Typescript, Javascript, Python, C++, C
-nothing important here
+
+# NEW ACCOUNT. OLD ACCOUNT WAS LOST AND HACKED.
