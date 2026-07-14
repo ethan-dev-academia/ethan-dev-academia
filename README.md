@@ -1,3 +1,3 @@
 # Ethan Yip
 
-ML and random things. AMA anything
+New account! Commits private for Resonance and research.
