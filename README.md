@@ -1,6 +1,8 @@
 # Ethan Yip 
 i like to learn about interesting things and topics. shoot me a msg!
 
+https://ethanyip.me
+
 ## **ML, Full-Stack, Systems, Research** 
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
