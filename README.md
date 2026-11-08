@@ -1,6 +1,8 @@
 # Ethan Yip 
 i like to learn about interesting things and topics. shoot me a msg!
 
+as the peter said, "before enlightenment chop bread carry water, after enlightment chop bread carry water"
+
 https://ethanyip.me
 
 ## **ML, Full-Stack, Systems, Research** 
